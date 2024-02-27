@@ -1,0 +1,8 @@
+*.h5
+
+# Ignore All Dataset Folder
+dataset/*/
+
+# Except this Sub-Folder
+!dataset/ai/
+!dataset/real/
