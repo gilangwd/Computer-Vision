@@ -1,1 +1,8 @@
 *.h5
+
+#Ignore Dataset
+dataset/
+
+#Except
+!dataset/ai/
+!dataset/real/
