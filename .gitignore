@@ -4,5 +4,5 @@
 dataset/*/
 
 # Except this Sub-Folder
-!dataset/ai/
-!dataset/real/
+!dataset/ai_128/
+!dataset/real_128/
